@@ -2,6 +2,6 @@
     <string name="app_name">MiPromedio</string>
     <string name="titulo">Mi Promedio</string>
     <string name="asignatura">Notas</string>
-    <string name="creditos">No° Créditos</string>
+    <string name="creditos">Créditos</string>
     <string name="calcular">Calcular</string>
 </resources>
